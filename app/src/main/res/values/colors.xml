@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF954CFB</color>
+    <color name="colorPrimaryLight">#812CFC</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryLight_1">#6200EE</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorLightGray">#F5F5F5</color>
+    <color name="colorRoundCornor">#ddBD96FF</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="trans">#00000000</color>
+
+    <color name="grey">#f0f0f1</color>
+    <color name="grey1">#929292</color>
+    <color name="line_color">#e0e0e0</color>
+    <color name="background">@color/grey</color>
+    <color name="grey_text_dark">#424242</color>
+    <color name="grey_text_dark_lighter">#616161</color>
+    <color name="colornotdetect">#004D40</color>
+    <color name="colordetect">#def9d45e</color>
+    <color name="holo_blue">#def9d45e</color>
+    <color name="colorBackGround">#212121</color>
+    <color name="colorText">#0D47A1</color>
+    <color name="colorBottom">#303030</color>
+    <color name="colorGray666">#666</color>
+
+    <color name="colorLinkedin">#0077B5</color>
+    <color name="colorFacebook">#3b5998</color>
+    <color name="colorTwitter">#38A1F3</color>
+
+</resources>
